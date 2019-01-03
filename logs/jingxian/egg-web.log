@@ -1,0 +1,14 @@
+2019-01-02 17:24:05,241 INFO 11176 [egg:logger] init all loggers with options: {"dir":"G:\\jingxian\\logs\\jingxian","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"jingxian-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-01-02 17:24:05,310 INFO 11176 [egg-multipart] stream mode enable
+2019-01-02 17:24:05,496 INFO 11176 [egg-static] starting static serve /public/ -> G:\jingxian\app\public
+2019-01-02 17:24:05,504 INFO 11176 [egg-security] use csrf middleware
+2019-01-02 17:24:05,507 INFO 11176 [egg-security] use methodnoallow middleware
+2019-01-02 17:24:05,508 INFO 11176 [egg-security] use noopen middleware
+2019-01-02 17:24:05,511 INFO 11176 [egg-security] use nosniff middleware
+2019-01-02 17:24:05,513 INFO 11176 [egg-security] use xssProtection middleware
+2019-01-02 17:24:05,514 INFO 11176 [egg-security] use xframe middleware
+2019-01-02 17:24:05,515 INFO 11176 [egg-security] use dta middleware
+2019-01-02 17:24:05,515 INFO 11176 [egg-security] compose 7 middlewares into one security middleware
+2019-01-02 17:24:05,539 INFO 11176 [egg:core] dump config after load, 17ms
+2019-01-02 17:24:05,561 INFO 11176 [egg-watcher:application] watcher start success
+2019-01-02 17:24:05,583 INFO 11176 [egg:core] dump config after ready, 18ms

@@ -1,0 +1,11 @@
+2019-01-02 17:24:02,513 INFO 15552 [egg:logger] init all loggers with options: {"dir":"G:\\jingxian\\logs\\jingxian","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"jingxian-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-01-02 17:24:02,784 INFO 15552 [egg:core] dump config after load, 14ms
+2019-01-02 17:24:02,867 INFO 15552 [egg-watcher] Start watching: ["G:\\jingxian\\app","G:\\jingxian\\config","G:\\jingxian\\mocks","G:\\jingxian\\mocks_proxy","G:\\jingxian\\app.js"]
+2019-01-02 17:24:02,867 INFO 15552 [egg-watcher] Start watching: "G:\\jingxian\\app"
+2019-01-02 17:24:02,868 INFO 15552 [egg-watcher] Start watching: "G:\\jingxian\\config"
+2019-01-02 17:24:02,868 INFO 15552 [egg-watcher] Start watching: "G:\\jingxian\\mocks"
+2019-01-02 17:24:02,868 INFO 15552 [egg-watcher] Start watching: "G:\\jingxian\\mocks_proxy"
+2019-01-02 17:24:02,868 INFO 15552 [egg-watcher] Start watching: "G:\\jingxian\\app.js"
+2019-01-02 17:24:02,869 INFO 15552 [egg-watcher:agent] watcher start success
+2019-01-02 17:24:02,892 INFO 15552 [egg:core] dump config after ready, 19ms
+2019-01-02 17:24:05,501 INFO 15552 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"G:\\jingxian\\app\\public","stat":{"dev":531034,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"ino":562949953682851,"size":0,"atimeMs":1546421045496.3833,"mtimeMs":1546421045496.3833,"ctimeMs":1546421045496.3833,"birthtimeMs":1546421045496.3833,"atime":"2019-01-02T09:24:05.496Z","mtime":"2019-01-02T09:24:05.496Z","ctime":"2019-01-02T09:24:05.496Z","birthtime":"2019-01-02T09:24:05.496Z"},"remove":false,"isDirectory":true,"isFile":false}

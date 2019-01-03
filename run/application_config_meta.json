@@ -1,0 +1,283 @@
+{
+  "keys": "G:\\jingxian\\config\\config.default.js",
+  "middleware": "G:\\jingxian\\config\\config.default.js",
+  "session": {
+    "maxAge": "G:\\jingxian\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "G:\\jingxian\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "G:\\jingxian\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "G:\\jingxian\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "G:\\jingxian\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "G:\\jingxian\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "G:\\jingxian\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "G:\\jingxian\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "G:\\jingxian\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "G:\\jingxian\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "G:\\jingxian\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "G:\\jingxian\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "G:\\jingxian\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "G:\\jingxian\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "G:\\jingxian\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "G:\\jingxian\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "G:\\jingxian\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "G:\\jingxian\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "G:\\jingxian\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "G:\\jingxian\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "G:\\jingxian\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "G:\\jingxian\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "G:\\jingxian\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "G:\\jingxian\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "G:\\jingxian\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "G:\\jingxian\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "G:\\jingxian\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "G:\\jingxian\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "G:\\jingxian\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "G:\\jingxian\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "G:\\jingxian\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "G:\\jingxian\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "G:\\jingxian\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "G:\\jingxian\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "G:\\jingxian\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "G:\\jingxian\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "G:\\jingxian\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "G:\\jingxian\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "G:\\jingxian\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "G:\\jingxian\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "G:\\jingxian\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "G:\\jingxian\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "G:\\jingxian\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "G:\\jingxian\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "G:\\jingxian\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "G:\\jingxian\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "G:\\jingxian\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "G:\\jingxian\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "G:\\jingxian\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "G:\\jingxian\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "G:\\jingxian\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "G:\\jingxian\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "G:\\jingxian\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "G:\\jingxian\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "G:\\jingxian\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "G:\\jingxian\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "G:\\jingxian\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+  "name": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "version": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "description": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "private": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "webstorm-disable-index": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "stop": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "dev": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "debug": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "test": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "cov": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "lint": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "ci": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "autod": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "url": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "license": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "strict": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "depth": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "env": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "level": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "G:\\jingxian\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "logging": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "port": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+}

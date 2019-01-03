@@ -1,0 +1,4 @@
+2019-01-02 17:24:05,309 INFO 11176 [egg-schedule]: register schedule G:\jingxian\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-01-02 17:24:05,309 INFO 11176 [egg-schedule]: register schedule G:\jingxian\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-01-02 17:24:05,596 INFO 15552 [Timer] G:\jingxian\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23754408ms at 2019-01-03 00:00:00.003
+2019-01-02 17:24:05,596 INFO 15552 [Timer] G:\jingxian\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23755404ms at 2019-01-03 00:00:01.000
