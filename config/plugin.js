@@ -12,3 +12,20 @@ exports.cors = {
   enable: true,
   package: 'egg-cors',
 };
+
+exports.validate = {
+  enable: true,
+  package: 'egg-validate',
+};
+
+exports.session = true;
+
+exports.redis = {
+  enable: true,
+  package: 'egg-redis',
+};
+
+exports.jwt = {
+  enable: true,
+  package: 'egg-jwt',
+};

@@ -1,0 +1,1014 @@
+2019-01-03 11:35:39,977 ERROR 8552 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8552
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 11:35:46,812 ERROR 8552 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8552
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 11:35:49,764 ERROR 8552 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8552
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 11:36:04,171 ERROR 8552 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8552
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 11:36:19,465 ERROR 8552 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8552
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 11:36:27,869 ERROR 8552 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8552
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 11:36:41,106 ERROR 8552 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8552
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 11:54:19,519 ERROR 16964 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 11:56:01,134 ERROR 15540 nodejs.ServerNoResponseError: server 127.0.0.1:49805 no response in 20001ms, maybe the socket is end on the other side. (address: 127.0.0.1:49805)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ServerNoResponseError"
+pid: 15540
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 11:57:24,733 ERROR 16964 nodejs.ClusterClientNoResponseError: client no response in 123601ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 16964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 12:50:23,670 ERROR 16964 nodejs.ClusterClientNoResponseError: client no response in 1132651ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 16964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 14:53:09,830 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 14:55:35,861 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 14:56:27,653 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 14:57:19,042 ERROR 18352 nodejs.EPERMError: Error watching file for changes: EPERM
+    at _errnoException (util.js:992:11)
+    at FSEvent.FSWatcher._handle.onchange (fs.js:1359:9)
+code: "EPERM"
+errno: "EPERM"
+syscall: "Error watching file for changes:"
+filename: null
+dir: "G:\\jingxian\\app\\servier\\usercneter"
+name: "EPERMError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 14:57:40,807 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 14:57:45,232 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 14:57:51,528 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 14:57:52,621 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 14:57:56,848 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 14:59:27,313 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 14:59:32,035 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:00:18,784 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:03:44,372 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:03:51,353 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:03:52,846 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:03:57,155 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:04:02,514 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:04:06,675 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:04:27,009 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:04:31,659 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:04:37,366 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:04:41,278 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:07:12,531 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:07:16,323 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:07:26,858 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:08:29,514 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:08:52,668 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:08:57,253 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:09:32,071 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:09:37,377 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:09:43,268 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:10:05,093 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:14:37,683 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:15:32,868 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:16:26,439 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:16:31,214 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:18:47,497 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:19:02,072 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:19:15,575 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:19:28,057 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:19:35,050 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:19:39,361 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:20:05,825 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 15:22:00,374 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:32:23,392 ERROR 16584 [-/127.0.0.1/-/119ms POST /login] nodejs.TypeError: ctx.vaildate is not a function
+    at UsercenterController.index (G:\jingxian\app\controller\usercenter.js:14:15)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at Object.classControllerMiddleware (G:\jingxian\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at wrappedController (G:\jingxian\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at G:\jingxian\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 16584
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:33:46,571 ERROR 11308 [-/127.0.0.1/-/73ms POST /login] nodejs.TypeError: ctx.vaildate is not a function
+    at UsercenterController.index (G:\jingxian\app\controller\usercenter.js:14:15)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at Object.classControllerMiddleware (G:\jingxian\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at wrappedController (G:\jingxian\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at G:\jingxian\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 11308
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:52:20,996 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:52:35,447 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:52:39,622 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:52:43,253 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:52:49,928 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:52:55,721 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:52:58,469 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:53:05,373 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:53:07,275 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:53:10,527 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:53:12,857 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:54:44,134 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:55:09,033 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 17:57:02,408 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:02:20,161 ERROR 5916 [-/127.0.0.1/-/101ms POST /register] nodejs.TypeError: ctx.vaildate is not a function
+    at UsercenterController.register (G:\jingxian\app\controller\usercenter.js:30:15)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at Object.classControllerMiddleware (G:\jingxian\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at wrappedController (G:\jingxian\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at G:\jingxian\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 5916
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:02:32,603 ERROR 5916 [-/127.0.0.1/-/2ms POST /register] nodejs.TypeError: ctx.vaildate is not a function
+    at UsercenterController.register (G:\jingxian\app\controller\usercenter.js:30:15)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at Object.classControllerMiddleware (G:\jingxian\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at wrappedController (G:\jingxian\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at G:\jingxian\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 5916
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:03:37,776 ERROR 8960 [-/127.0.0.1/-/62ms POST /register] nodejs.TypeError: ctx.vaildate is not a function
+    at UsercenterController.register (G:\jingxian\app\controller\usercenter.js:30:15)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at Object.classControllerMiddleware (G:\jingxian\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at wrappedController (G:\jingxian\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at G:\jingxian\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 8960
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:03:48,341 ERROR 13180 [-/127.0.0.1/-/89ms POST /register] nodejs.TypeError: Cannot read property 'index' of undefined
+    at UsercenterController.register (G:\jingxian\app\controller\usercenter.js:31:46)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13180
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:04:11,953 ERROR 13180 [-/127.0.0.1/-/3ms POST /register] nodejs.TypeError: Cannot read property 'index' of undefined
+    at UsercenterController.register (G:\jingxian\app\controller\usercenter.js:31:46)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13180
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:05:11,726 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:05:16,905 ERROR 15712 [-/127.0.0.1/-/99ms POST /register] nodejs.TypeError: Cannot read property 'register' of undefined
+    at UsercenterController.register (G:\jingxian\app\controller\usercenter.js:31:46)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 15712
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:05:53,143 ERROR 9708 [-/127.0.0.1/-/76ms POST /register] nodejs.TypeError: Cannot read property 'register' of undefined
+    at UsercenterController.register (G:\jingxian\app\controller\usercenter.js:31:46)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 9708
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:08:47,520 ERROR 9708 [-/127.0.0.1/-/3ms POST /login] nodejs.TypeError: Cannot read property 'index' of undefined
+    at UsercenterController.index (G:\jingxian\app\controller\usercenter.js:15:46)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 9708
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:09:45,622 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:10:21,973 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:10:25,426 ERROR 352 [-/127.0.0.1/-/74ms POST /login] nodejs.TypeError: Cannot read property 'index' of undefined
+    at UsercenterController.index (G:\jingxian\app\controller\usercenter.js:16:46)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:12:46,360 ERROR 13208 [-/127.0.0.1/-/27ms POST /register] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)' at line 1
+    at Query.Sequence._packetToError (G:\jingxian\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (G:\jingxian\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (G:\jingxian\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (G:\jingxian\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (G:\jingxian\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (G:\jingxian\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (G:\jingxian\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Pool.query (G:\jingxian\node_modules\mysql\lib\Pool.js:199:23)
+    at G:\jingxian\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (G:\jingxian\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (G:\jingxian\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (G:\jingxian\node_modules\ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (G:\jingxian\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (G:\jingxian\node_modules\co\index.js:65:19)
+    at G:\jingxian\node_modules\co\index.js:54:5
+    sql: INSERT INTO user (password, mobile) VALUE ('123456','18565246748',?)
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)' at line 1"
+sqlState: "42000"
+index: 0
+sql: "INSERT INTO user (password, mobile) VALUE ('123456','18565246748',?)"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 13208
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:13:57,603 ERROR 1200 [-/127.0.0.1/-/90ms POST /register] nodejs.ER_WARN_DATA_OUT_OF_RANGEError: ER_WARN_DATA_OUT_OF_RANGE: Out of range value for column 'mobile' at row 1
+    at Query.Sequence._packetToError (G:\jingxian\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (G:\jingxian\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (G:\jingxian\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (G:\jingxian\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (G:\jingxian\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (G:\jingxian\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (G:\jingxian\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Pool.query (G:\jingxian\node_modules\mysql\lib\Pool.js:199:23)
+    at G:\jingxian\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (G:\jingxian\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (G:\jingxian\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (G:\jingxian\node_modules\ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (G:\jingxian\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (G:\jingxian\node_modules\co\index.js:65:19)
+    at G:\jingxian\node_modules\co\index.js:54:5
+    sql: INSERT INTO user (password, mobile) VALUE ('123456','18565246748')
+code: "ER_WARN_DATA_OUT_OF_RANGE"
+errno: 1264
+sqlMessage: "Out of range value for column 'mobile' at row 1"
+sqlState: "22003"
+index: 0
+sql: "INSERT INTO user (password, mobile) VALUE ('123456','18565246748')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_WARN_DATA_OUT_OF_RANGEError"
+pid: 1200
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:15:14,352 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:16:41,600 ERROR 3064 [-/127.0.0.1/-/85ms POST /register] nodejs.ER_WARN_DATA_OUT_OF_RANGEError: ER_WARN_DATA_OUT_OF_RANGE: Out of range value for column 'mobile' at row 1
+    at Query.Sequence._packetToError (G:\jingxian\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (G:\jingxian\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (G:\jingxian\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (G:\jingxian\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (G:\jingxian\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (G:\jingxian\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (G:\jingxian\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Pool.query (G:\jingxian\node_modules\mysql\lib\Pool.js:199:23)
+    at G:\jingxian\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (G:\jingxian\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (G:\jingxian\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (G:\jingxian\node_modules\ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (G:\jingxian\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (G:\jingxian\node_modules\co\index.js:65:19)
+    at G:\jingxian\node_modules\co\index.js:54:5
+    sql: INSERT INTO user (mobile, password) VALUE ('18565246748','123456')
+code: "ER_WARN_DATA_OUT_OF_RANGE"
+errno: 1264
+sqlMessage: "Out of range value for column 'mobile' at row 1"
+sqlState: "22003"
+index: 0
+sql: "INSERT INTO user (mobile, password) VALUE ('18565246748','123456')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_WARN_DATA_OUT_OF_RANGEError"
+pid: 3064
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:22:12,285 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:22:32,945 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:22:51,500 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:22:56,509 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:24:23,796 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+
+2019-01-03 18:24:28,830 ERROR 18352 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18352
+hostname: DESKTOP-EIGA65Q
+

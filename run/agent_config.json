@@ -145,6 +145,33 @@
       "defaultViewEngine": "",
       "mapping": {}
     },
+    "mysql": {
+      "default": {
+        "database": null,
+        "connectionLimit": 5
+      },
+      "app": true,
+      "agent": false,
+      "client": {
+        "host": "localhost",
+        "port": "3306",
+        "user": "root",
+        "password": "<String len: 6>",
+        "database": "jingxian"
+      }
+    },
+    "cors": {},
+    "validate": {},
+    "redis": {
+      "default": {},
+      "app": true,
+      "agent": false,
+      "supportTimeCommand": true
+    },
+    "jwt": {
+      "secret": "<String len: 13>",
+      "enable": false
+    },
     "env": "local",
     "name": "jingxian",
     "keys": "<String len: 27>",
@@ -159,7 +186,14 @@
       "private": true,
       "dependencies": {
         "egg": "^2.2.1",
-        "egg-scripts": "^2.5.0"
+        "egg-cors": "^2.1.2",
+        "egg-jwt": "^3.1.4",
+        "egg-mysql": "^3.0.0",
+        "egg-onerror": "^2.1.0",
+        "egg-redis": "^2.3.0",
+        "egg-scripts": "^2.5.0",
+        "egg-session": "^3.1.0",
+        "egg-validate": "^2.0.2"
       },
       "devDependencies": {
         "autod": "^3.0.1",
@@ -304,7 +338,7 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "G:\\jingxian\\node_modules\\egg\\config\\plugin.js",
+      "from": "G:\\jingxian\\config\\plugin.js",
       "path": "G:\\jingxian\\node_modules\\egg-session",
       "version": "3.1.0"
     },
@@ -442,6 +476,63 @@
       "from": "G:\\jingxian\\node_modules\\egg\\config\\plugin.js",
       "path": "G:\\jingxian\\node_modules\\egg-view",
       "version": "2.1.1"
+    },
+    "mysql": {
+      "enable": true,
+      "package": "egg-mysql",
+      "name": "mysql",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "G:\\jingxian\\config\\plugin.js",
+      "path": "G:\\jingxian\\node_modules\\egg-mysql",
+      "version": "3.0.0"
+    },
+    "cors": {
+      "enable": true,
+      "package": "egg-cors",
+      "name": "cors",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "G:\\jingxian\\config\\plugin.js",
+      "path": "G:\\jingxian\\node_modules\\egg-cors",
+      "version": "2.1.2"
+    },
+    "validate": {
+      "enable": true,
+      "package": "egg-validate",
+      "name": "validate",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "G:\\jingxian\\config\\plugin.js",
+      "path": "G:\\jingxian\\node_modules\\egg-validate",
+      "version": "2.0.2"
+    },
+    "redis": {
+      "enable": true,
+      "package": "egg-redis",
+      "name": "redis",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "G:\\jingxian\\config\\plugin.js",
+      "path": "G:\\jingxian\\node_modules\\egg-redis",
+      "version": "2.3.0"
+    },
+    "jwt": {
+      "enable": true,
+      "package": "egg-jwt",
+      "name": "jwt",
+      "dependencies": [],
+      "optionalDependencies": [
+        "onerror"
+      ],
+      "env": [],
+      "from": "G:\\jingxian\\config\\plugin.js",
+      "path": "G:\\jingxian\\node_modules\\egg-jwt",
+      "version": "3.1.4"
     }
   }
 }

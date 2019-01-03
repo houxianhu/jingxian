@@ -1,26 +1,34 @@
 {
   "keys": "G:\\jingxian\\config\\config.default.js",
-  "middleware": "G:\\jingxian\\config\\config.default.js",
-  "session": {
-    "maxAge": "G:\\jingxian\\node_modules\\egg-session\\config\\config.default.js",
-    "key": "G:\\jingxian\\node_modules\\egg-session\\config\\config.default.js",
-    "httpOnly": "G:\\jingxian\\node_modules\\egg-session\\config\\config.default.js",
-    "encrypt": "G:\\jingxian\\node_modules\\egg-session\\config\\config.default.js"
+  "mysql": {
+    "client": {
+      "host": "G:\\jingxian\\config\\config.default.js",
+      "port": "G:\\jingxian\\config\\config.default.js",
+      "user": "G:\\jingxian\\config\\config.default.js",
+      "password": "G:\\jingxian\\config\\config.default.js",
+      "database": "G:\\jingxian\\config\\config.default.js"
+    },
+    "app": "G:\\jingxian\\config\\config.default.js",
+    "agent": "G:\\jingxian\\config\\config.default.js",
+    "default": {
+      "database": "G:\\jingxian\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "G:\\jingxian\\node_modules\\egg-mysql\\config\\config.default.js"
+    }
   },
   "security": {
-    "domainWhiteList": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
-    "protocolWhiteList": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
-    "defaultMiddleware": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
     "csrf": {
-      "enable": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+      "enable": "G:\\jingxian\\config\\config.default.js",
+      "ignoreJSON": "G:\\jingxian\\config\\config.default.js",
       "useSession": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
-      "ignoreJSON": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
       "cookieName": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
       "sessionName": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
       "headerName": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
       "bodyName": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
       "queryName": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
     },
+    "domainWhiteList": "G:\\jingxian\\config\\config.default.js",
+    "protocolWhiteList": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
     "xframe": {
       "enable": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
       "value": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
@@ -58,6 +66,23 @@
       "ipBlackList": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js",
       "checkAddress": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
     }
+  },
+  "cors": {
+    "origin": "G:\\jingxian\\config\\config.default.js",
+    "allowMethods": "G:\\jingxian\\config\\config.default.js"
+  },
+  "validate": "G:\\jingxian\\config\\config.default.js",
+  "redis": "G:\\jingxian\\config\\config.default.js",
+  "jwt": {
+    "secret": "G:\\jingxian\\config\\config.default.js",
+    "enable": "G:\\jingxian\\node_modules\\egg-jwt\\config\\config.default.js"
+  },
+  "middleware": "G:\\jingxian\\config\\config.default.js",
+  "session": {
+    "maxAge": "G:\\jingxian\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "G:\\jingxian\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "G:\\jingxian\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "G:\\jingxian\\node_modules\\egg-session\\config\\config.default.js"
   },
   "helper": {
     "shtml": "G:\\jingxian\\node_modules\\egg-security\\config\\config.default.js"
@@ -155,7 +180,14 @@
     "private": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
     "dependencies": {
       "egg": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
-      "egg-scripts": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+      "egg-cors": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "egg-jwt": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "egg-onerror": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "egg-redis": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "egg-session": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
       "autod": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
