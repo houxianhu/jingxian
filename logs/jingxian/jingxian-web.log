@@ -437,3 +437,179 @@ name: "ER_WARN_DATA_OUT_OF_RANGEError"
 pid: 3064
 hostname: DESKTOP-EIGA65Q
 
+2019-01-04 10:10:17,507 ERROR 14376 [-/127.0.0.1/-/103ms POST /register] nodejs.TypeError: Assignment to constant variable.
+    at UsercenterController.register (G:\jingxian\app\controller\usercenter.js:44:11)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at Object.classControllerMiddleware (G:\jingxian\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at wrappedController (G:\jingxian\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at G:\jingxian\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 14376
+hostname: DESKTOP-EIGA65Q
+
+2019-01-04 10:12:41,568 ERROR 6264 [-/127.0.0.1/-/75ms POST /register] nodejs.TypeError: Assignment to constant variable.
+    at UsercenterController.register (G:\jingxian\app\controller\usercenter.js:44:11)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at Object.classControllerMiddleware (G:\jingxian\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at wrappedController (G:\jingxian\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at G:\jingxian\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 6264
+hostname: DESKTOP-EIGA65Q
+
+2019-01-04 10:14:28,542 ERROR 6264 [-/127.0.0.1/-/36ms POST /login] nodejs.TypeError: Assignment to constant variable.
+    at UsercenterController.index (G:\jingxian\app\controller\usercenter.js:21:11)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at Object.classControllerMiddleware (G:\jingxian\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at wrappedController (G:\jingxian\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at G:\jingxian\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 6264
+hostname: DESKTOP-EIGA65Q
+
+2019-01-04 15:46:17,374 WARN 3724 [-/127.0.0.1/-/76ms POST /createschool] nodejs.UnauthorizedError: jwt expired
+    at G:\jingxian\node_modules\koa-jwt2\lib\index.js:117:18
+    at G:\jingxian\node_modules\jsonwebtoken\verify.js:145:16
+    at getSecret (G:\jingxian\node_modules\jsonwebtoken\verify.js:80:14)
+    at Object.module.exports [as verify] (G:\jingxian\node_modules\jsonwebtoken\verify.js:84:10)
+    at Promise (G:\jingxian\node_modules\koa-jwt2\lib\index.js:115:11)
+    at new Promise (<anonymous>)
+    at middleware (G:\jingxian\node_modules\koa-jwt2\lib\index.js:114:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+name: "UnauthorizedError"
+message: "jwt expired"
+code: "invalid_token"
+status: 401
+inner: {"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2019-01-04T07:20:52.000Z"}
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 3724
+hostname: DESKTOP-EIGA65Q
+
+2019-01-04 16:12:47,802 WARN 12832 [-/127.0.0.1/-/61ms POST /createschool] nodejs.UnauthorizedError: Format is Authorization: Bearer [token]
+    at middleware (G:\jingxian\node_modules\koa-jwt2\lib\index.js:73:19)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at G:\jingxian\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (G:\jingxian\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (G:\jingxian\node_modules\koa-compose\index.js:42:32)
+    at G:\jingxian\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\jingxian\node_modules\koa-compose\index.js:42:32)
+name: "UnauthorizedError"
+message: "Format is Authorization: Bearer [token]"
+code: "credentials_bad_scheme"
+status: 401
+inner: {"message":"Format is Authorization: Bearer [token]"}
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 12832
+hostname: DESKTOP-EIGA65Q
+
+2019-01-04 16:17:57,612 WARN 12116 [-/127.0.0.1/-/4ms POST /createschool] nodejs.UnauthorizedError: Format is Authorization: Bearer [token]
+    at middleware (G:\jingxian\node_modules\koa-jwt2\lib\index.js:73:19)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at G:\jingxian\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (G:\jingxian\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (G:\jingxian\node_modules\koa-compose\index.js:42:32)
+    at G:\jingxian\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\jingxian\node_modules\koa-compose\index.js:42:32)
+name: "UnauthorizedError"
+message: "Format is Authorization: Bearer [token]"
+code: "credentials_bad_scheme"
+status: 401
+inner: {"message":"Format is Authorization: Bearer [token]"}
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 12116
+hostname: DESKTOP-EIGA65Q
+
+2019-01-04 16:28:40,401 WARN 17648 [-/127.0.0.1/-/59ms GET /] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (G:\jingxian\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at G:\jingxian\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (G:\jingxian\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (G:\jingxian\node_modules\koa-compose\index.js:42:32)
+    at G:\jingxian\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\jingxian\node_modules\koa-compose\index.js:42:32)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+pid: 17648
+hostname: DESKTOP-EIGA65Q
+
+2019-01-04 16:38:36,578 ERROR 10600 [-/127.0.0.1/-/88ms POST /createschool] nodejs.TypeError: Cannot read property 'body' of undefined
+    at SchoolController.index (G:\jingxian\app\controller\school.js:13:37)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at Object.classControllerMiddleware (G:\jingxian\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at wrappedController (G:\jingxian\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at middleware (G:\jingxian\node_modules\koa-jwt2\lib\index.js:145:11)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 10600
+hostname: DESKTOP-EIGA65Q
+
+2019-01-04 18:02:32,639 WARN 10704 [-/127.0.0.1/-/36ms POST /createschool] nodejs.UnauthorizedError: jwt expired
+    at G:\jingxian\node_modules\koa-jwt2\lib\index.js:117:18
+    at G:\jingxian\node_modules\jsonwebtoken\verify.js:145:16
+    at getSecret (G:\jingxian\node_modules\jsonwebtoken\verify.js:80:14)
+    at Object.module.exports [as verify] (G:\jingxian\node_modules\jsonwebtoken\verify.js:84:10)
+    at Promise (G:\jingxian\node_modules\koa-jwt2\lib\index.js:115:11)
+    at new Promise (<anonymous>)
+    at middleware (G:\jingxian\node_modules\koa-jwt2\lib\index.js:114:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+name: "UnauthorizedError"
+message: "jwt expired"
+code: "invalid_token"
+status: 401
+inner: {"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2019-01-04T09:16:55.000Z"}
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 10704
+hostname: DESKTOP-EIGA65Q
+
+2019-01-04 18:06:37,513 WARN 10704 [-/127.0.0.1/-/2ms POST /createschool] nodejs.UnauthorizedError: jwt expired
+    at G:\jingxian\node_modules\koa-jwt2\lib\index.js:117:18
+    at G:\jingxian\node_modules\jsonwebtoken\verify.js:145:16
+    at getSecret (G:\jingxian\node_modules\jsonwebtoken\verify.js:80:14)
+    at Object.module.exports [as verify] (G:\jingxian\node_modules\jsonwebtoken\verify.js:84:10)
+    at Promise (G:\jingxian\node_modules\koa-jwt2\lib\index.js:115:11)
+    at new Promise (<anonymous>)
+    at middleware (G:\jingxian\node_modules\koa-jwt2\lib\index.js:114:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+name: "UnauthorizedError"
+message: "jwt expired"
+code: "invalid_token"
+status: 401
+inner: {"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2019-01-04T09:16:55.000Z"}
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 10704
+hostname: DESKTOP-EIGA65Q
+

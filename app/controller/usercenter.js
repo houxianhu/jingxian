@@ -7,12 +7,19 @@ class UsercenterController extends Controller {
   async index() {
     const { ctx } = this;
     const rule = {
-      mobile: { type: 'string', require: true, message: '手机号是必须的' },
+      mobile: { type: 'number', require: true, message: '手机号是必须的' },
       password: { type: 'string', require: true, message: '密码是必须的' },
     };
     const logindata = ctx.request.body;
-    await ctx.validate(rule, logindata);
-    const res = await ctx.service.usercenter.index(logindata);
+    logindata.mobile = parseInt(logindata.mobile);
+    let res = {};
+    try {
+      await ctx.validate(rule, logindata);
+      res = await ctx.service.usercenter.index(logindata);
+    } catch (error) {
+      console.log(error);
+      res = error;
+    }
     ctx.body = res;
   }
   // 登录 手机 手机验证码
@@ -23,12 +30,19 @@ class UsercenterController extends Controller {
   async register() {
     const { ctx } = this;
     const rule = {
-      mobile: { type: 'string', require: true, message: '手机号是必须的' },
+      mobile: { type: 'number', require: true, message: '手机号是必须的' },
       password: { type: 'string', require: true, message: '密码是必须的' },
     };
     const registerdata = ctx.request.body;
-    await ctx.validate(rule, registerdata);
-    const res = await ctx.service.usercenter.register(registerdata);
+    registerdata.mobile = parseInt(registerdata.mobile);
+    let res = {};
+    try {
+      await ctx.validate(rule, registerdata);
+      res = await ctx.service.usercenter.register(registerdata);
+    } catch (error) {
+      console.log(error);
+      res = error;
+    }
     ctx.body = res;
   }
   // 修改用户

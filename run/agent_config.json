@@ -7,13 +7,15 @@
       "encrypt": true
     },
     "security": {
-      "domainWhiteList": [],
+      "domainWhiteList": [
+        "*"
+      ],
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
       "csrf": {
         "enable": true,
         "useSession": false,
-        "ignoreJSON": false,
+        "ignoreJSON": true,
         "cookieName": "csrfToken",
         "sessionName": "csrfToken",
         "headerName": "x-csrf-token",
@@ -160,7 +162,10 @@
         "database": "jingxian"
       }
     },
-    "cors": {},
+    "cors": {
+      "origin": "*",
+      "allowMethods": "GET,HEAD,PUT,POST,DELETE,PATCH"
+    },
     "validate": {},
     "redis": {
       "default": {},
