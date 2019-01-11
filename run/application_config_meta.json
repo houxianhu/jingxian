@@ -15,6 +15,14 @@
       "connectionLimit": "G:\\jingxian\\node_modules\\egg-mysql\\config\\config.default.js"
     }
   },
+  "sequelize": {
+    "dialect": "G:\\jingxian\\config\\config.default.js",
+    "database": "G:\\jingxian\\config\\config.default.js",
+    "host": "G:\\jingxian\\config\\config.default.js",
+    "port": "G:\\jingxian\\config\\config.default.js",
+    "username": "G:\\jingxian\\config\\config.default.js",
+    "password": "G:\\jingxian\\config\\config.default.js"
+  },
   "security": {
     "csrf": {
       "enable": "G:\\jingxian\\config\\config.default.js",
@@ -186,8 +194,10 @@
       "egg-onerror": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
       "egg-redis": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
       "egg-scripts": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "egg-sequelize": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
       "egg-session": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
-      "egg-validate": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
+      "egg-validate": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "mysql2": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
       "autod": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
@@ -197,6 +207,7 @@
       "egg-mock": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
       "eslint": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
       "eslint-config-egg": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
+      "sequelize-cli": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js",
       "webstorm-disable-index": "G:\\jingxian\\node_modules\\egg\\config\\config.default.js"
     },
     "engines": {

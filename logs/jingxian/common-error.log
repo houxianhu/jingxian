@@ -1742,3 +1742,6560 @@ headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
 pid: 10600
 hostname: DESKTOP-EIGA65Q
 
+2019-01-07 11:32:41,660 ERROR 8964 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 11:33:34,917 ERROR 8964 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 11:38:20,235 ERROR 8964 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 11:38:32,447 ERROR 8964 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 11:41:09,097 ERROR 8964 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 11:42:30,424 ERROR 8964 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 11:59:54,649 ERROR 8964 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 13:47:50,615 ERROR 8964 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 14:09:00,459 ERROR 8964 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 14:12:26,259 ERROR 14560 nodejs.ServerNoResponseError: server 127.0.0.1:62622 no response in 20001ms, maybe the socket is end on the other side. (address: 127.0.0.1:62622)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ServerNoResponseError"
+pid: 14560
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 14:25:25,791 ERROR 8964 nodejs.ClusterClientNoResponseError: client no response in 819529ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 8964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 14:28:17,161 ERROR 8964 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 14:39:56,723 ERROR 8964 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8964
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 16:44:23,484 ERROR 16928 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16928
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 17:13:07,486 ERROR 16928 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16928
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 17:13:30,798 ERROR 16928 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16928
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 17:13:34,894 ERROR 16928 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16928
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 17:13:38,265 ERROR 16928 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16928
+hostname: DESKTOP-EIGA65Q
+
+2019-01-07 17:15:39,334 ERROR 11076 nodejs.ServerNoResponseError: server 127.0.0.1:51172 no response in 20002ms, maybe the socket is end on the other side. (address: 127.0.0.1:51172)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ServerNoResponseError"
+pid: 11076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 11:49:26,015 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 13:36:19,649 ERROR 10384 nodejs.ClusterClientNoResponseError: client no response in 3692740ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 14:27:35,512 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 14:27:43,182 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 14:27:49,179 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 14:52:41,193 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 14:54:54,724 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 14:55:01,822 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:11:17,037 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:13:05,280 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:13:13,467 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:13:32,402 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:14:01,872 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:14:26,117 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:15:34,542 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:15:38,928 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:16:48,532 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:19:06,274 ERROR 1460 [-/127.0.0.1/-/108ms POST /createschool] nodejs.TypeError: Cannot read property 'app' of undefined
+    at checktoken (G:\jingxian\app\middleware\checktoken.js:6:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 1460
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:19:56,190 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:20:01,177 ERROR 12892 [-/127.0.0.1/-/289ms POST /createschool] nodejs.TypeError: Cannot read property 'app' of undefined
+    at checktoken (G:\jingxian\app\middleware\checktoken.js:7:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 12892
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:20:05,114 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:20:05,215 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:20:11,656 ERROR 2624 [-/127.0.0.1/-/118ms POST /createschool] nodejs.TypeError: Cannot read property 'app' of undefined
+    at checktoken (G:\jingxian\app\middleware\checktoken.js:7:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 2624
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:23:07,763 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:23:45,207 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:25:14,507 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:30:33,086 ERROR 4384 nodejs.ServerNoResponseError: server 127.0.0.1:57294 no response in 40002ms, maybe the socket is end on the other side. (address: 127.0.0.1:57294)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ServerNoResponseError"
+pid: 4384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:48:24,973 ERROR 10384 nodejs.ClusterClientNoResponseError: client no response in 1131891ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:49:42,176 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:51:22,549 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:51:36,987 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 15:54:03,480 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:06:33,720 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:07:25,268 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:07:55,979 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:08:02,955 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:08:09,593 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:08:18,290 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:08:24,011 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:12:13,399 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:12:18,593 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:12:49,914 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:14:17,101 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:24:04,772 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:24:46,401 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:25:06,273 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:25:14,409 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:25:43,533 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:25:58,549 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:26:14,514 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:26:14,564 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:29:13,430 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:38:45,972 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:42:55,928 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:43:01,384 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:45:46,898 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:45:54,127 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:45:59,029 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:46:04,632 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:46:06,798 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:46:07,908 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:55:42,795 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:55:59,223 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:56:11,008 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:56:19,637 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:56:31,426 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:56:41,171 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:56:41,198 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:56:49,787 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:56:52,540 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:56:59,068 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 16:57:01,641 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:02:54,036 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:28:15,503 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:28:22,217 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:28:50,999 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:29:11,232 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:33:54,608 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:35:27,596 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:35:55,550 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:36:21,014 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:36:32,487 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:36:48,996 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:36:56,963 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:36:57,734 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:37:01,096 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:37:06,799 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:37:08,245 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:37:52,062 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:38:01,708 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:38:01,838 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:41:34,915 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:44:45,617 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:44:50,618 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:44:57,817 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:45:31,744 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:45:38,181 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:45:40,779 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:46:14,015 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:46:21,555 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:46:23,584 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:46:30,564 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:51:01,012 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:52:23,771 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:53:17,790 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:53:28,281 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:53:28,374 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:53:39,325 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:53:39,504 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:54:09,376 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:55:06,657 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:55:33,579 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:55:39,256 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:55:45,165 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:56:08,340 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:56:25,458 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:57:14,587 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:57:19,973 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:57:27,086 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:57:27,424 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:58:26,669 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:58:34,553 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:58:40,013 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:58:46,838 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 17:58:48,649 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:09:26,399 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:09:32,033 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:09:38,875 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:09:57,130 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:13:34,127 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:14:04,103 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:16:48,730 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:19:12,529 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:23:21,077 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:30:21,794 ERROR 12748 nodejs.ServerNoResponseError: server 127.0.0.1:57294 no response in 39997ms, maybe the socket is end on the other side. (address: 127.0.0.1:57294)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ServerNoResponseError"
+pid: 12748
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:30:33,669 ERROR 10384 nodejs.ClusterClientNoResponseError: client no response in 71871ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:33:25,704 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:33:32,515 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:33:32,652 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:33:39,513 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:42:57,336 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-08 18:47:06,426 ERROR 10384 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10384
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 09:22:47,550 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 09:22:52,808 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 09:31:49,924 ERROR 17852 nodejs.ServerNoResponseError: server 127.0.0.1:55520 no response in 20002ms, maybe the socket is end on the other side. (address: 127.0.0.1:55520)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ServerNoResponseError"
+pid: 17852
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 09:32:54,490 ERROR 16416 nodejs.ClusterClientNoResponseError: client no response in 104568ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 09:42:40,079 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 09:44:14,011 ERROR 4168 nodejs.ServerNoResponseError: server 127.0.0.1:55520 no response in 20001ms, maybe the socket is end on the other side. (address: 127.0.0.1:55520)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ServerNoResponseError"
+pid: 4168
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 09:44:50,236 ERROR 16416 nodejs.ClusterClientNoResponseError: client no response in 76223ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 09:50:42,816 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 09:50:47,286 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 09:51:03,809 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:18:12,992 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:18:18,138 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:20:42,172 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:20:48,024 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:20:48,520 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:21:31,652 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:26:04,199 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:26:10,474 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:28:31,401 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:28:38,230 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:29:18,383 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:29:32,561 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:30:47,370 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:30:56,497 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:30:57,145 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:31:15,490 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:31:21,534 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:31:22,820 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:31:29,211 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:34:12,765 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:38:38,898 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:43:38,591 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:43:42,772 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:44:22,507 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:51:12,567 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 10:55:30,359 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:04:25,320 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:04:35,082 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:04:53,633 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:04:59,956 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:05:05,577 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:05:12,735 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:05:13,745 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:06:04,521 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:06:12,629 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:06:26,004 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:06:39,759 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:06:50,142 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:11:54,096 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:12:07,511 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:12:07,845 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:12:30,525 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:12:40,019 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:17:36,853 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:17:47,901 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:18:01,674 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:18:04,253 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:18:14,207 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:24:28,059 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:24:52,020 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:39:16,050 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:39:25,353 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:39:41,769 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:39:46,790 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:44:09,247 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:44:10,319 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:44:14,592 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:44:35,332 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:51:08,408 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:51:14,541 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:51:31,702 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:51:37,698 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:51:44,914 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 11:51:59,001 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 13:28:50,656 ERROR 16416 nodejs.ClusterClientNoResponseError: client no response in 91054ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:06:33,292 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:06:40,303 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:08:59,380 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:15:42,560 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:16:21,896 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:16:23,486 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:16:47,335 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:16:52,622 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:18:03,729 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:19:46,988 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:19:54,448 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:20:48,683 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:21:52,763 ERROR 15084 nodejs.ServerNoResponseError: server 127.0.0.1:55520 no response in 20002ms, maybe the socket is end on the other side. (address: 127.0.0.1:55520)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ServerNoResponseError"
+pid: 15084
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:23:20,441 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:46:51,702 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:56:12,990 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 15:57:10,055 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:07:57,283 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:08:02,697 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:08:07,809 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:15:48,830 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:17:17,806 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:19:06,307 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:19:14,339 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:19:15,704 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:19:20,050 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:19:30,283 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:19:31,166 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:19:36,136 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:19:50,745 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:20:13,875 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:20:26,595 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:20:35,464 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:20:35,930 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:20:43,834 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:20:44,446 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:41:42,025 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:48:18,006 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:53:50,080 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 16:56:00,914 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:00:32,747 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:00:49,845 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:01:03,205 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:01:04,220 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:02:33,439 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:03:18,216 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:11:27,052 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:21:31,316 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:22:26,991 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:24:46,309 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:25:39,439 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:25:54,731 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:25:59,375 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:26:18,494 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:31:30,110 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:31:42,179 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:31:53,514 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:31:56,047 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:33:16,503 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:33:46,197 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:33:49,317 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:34:38,409 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:35:05,812 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:35:14,085 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:35:22,242 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:35:24,384 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:35:42,273 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:35:49,225 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:35:59,040 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:36:00,986 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:36:08,057 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:36:15,529 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:36:16,029 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:36:19,233 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:36:35,121 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:37:46,811 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:38:02,232 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:38:09,469 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:38:17,117 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:40:07,502 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:41:50,977 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:42:08,082 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:45:19,884 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:52:50,574 ERROR 1952 [-/127.0.0.1/-/31ms DELETE /delete/user/7] nodejs.TypeError: Cannot read property 'id' of undefined
+    at StaffController.delstaff (G:\jingxian\app\controller\staff.js:35:29)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at Object.classControllerMiddleware (G:\jingxian\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\jingxian\node_modules\egg-core\lib\utils\index.js:46:21)
+    at wrappedController (G:\jingxian\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (G:\jingxian\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at middleware (G:\jingxian\node_modules\koa-jwt2\lib\index.js:145:11)
+    at <anonymous>
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 1952
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:54:40,679 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 17:55:18,263 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 18:00:13,552 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 18:02:41,946 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 18:02:48,874 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 18:02:55,483 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 18:03:13,313 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 18:03:26,870 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 18:07:08,825 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-09 18:12:24,729 ERROR 16416 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16416
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 09:48:44,182 ERROR 648 nodejs.ServerNoResponseError: server 127.0.0.1:50938 no response in 20001ms, maybe the socket is end on the other side. (address: 127.0.0.1:50938)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ServerNoResponseError"
+pid: 648
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 10:33:59,947 ERROR 736 nodejs.ClusterClientNoResponseError: client no response in 2755759ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 10:34:11,293 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 10:42:18,200 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 10:42:32,903 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 10:42:56,468 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 10:43:30,508 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 10:44:29,019 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 10:44:35,560 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:04:14,095 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:10:17,138 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:10:24,259 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:10:31,377 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:12:43,271 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:16:52,380 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:16:57,340 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:17:49,959 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:18:18,573 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:27:32,084 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:27:39,210 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:28:24,716 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:28:38,926 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:30:49,912 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:30:56,119 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:31:29,523 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:31:36,897 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:31:43,043 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:31:49,837 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:31:52,606 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:31:58,609 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:32:01,656 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:32:08,250 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:32:13,342 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:33:16,342 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:33:56,677 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:34:20,845 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:35:08,095 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:35:17,883 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:35:24,864 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:35:31,161 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:35:31,919 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:35:33,591 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:36:49,654 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:38:59,126 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:39:04,669 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:39:19,465 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:43:19,245 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:46:12,652 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:46:13,877 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:46:28,444 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:46:52,925 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:47:54,805 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:54:44,469 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:56:01,021 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 11:56:30,356 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 13:47:27,963 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 13:48:37,877 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 13:56:26,346 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 13:57:20,611 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:04:51,025 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:05:47,153 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:07:25,397 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:08:07,475 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:08:07,734 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:08:13,233 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:08:24,507 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:08:31,359 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:11:36,962 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:19:32,559 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:19:41,070 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:20:28,761 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:20:40,250 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:20:43,488 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:20:49,854 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:20:50,149 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:21:58,875 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:22:29,572 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:22:35,554 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:23:26,780 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:23:33,052 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:24:32,397 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:27:20,146 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:27:58,168 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:28:05,766 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:28:51,822 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:29:01,199 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:29:06,759 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:30:25,580 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:30:30,795 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:31:07,071 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:34:19,834 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:34:28,375 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:34:37,213 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:34:38,366 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:35:41,994 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:37:43,722 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:37:51,304 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 14:37:51,369 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:02:16,459 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:03:55,938 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:04:05,570 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:04:23,754 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:06:06,449 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:06:06,897 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:06:42,075 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:06:54,076 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:07:01,875 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:07:03,886 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:07:05,822 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:14:38,679 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:29:27,860 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:29:35,413 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:29:36,816 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:29:48,887 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:38:03,796 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:39:50,936 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:39:56,875 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:39:56,995 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:55:41,466 ERROR 9360 nodejs.ServerNoResponseError: server 127.0.0.1:50938 no response in 20001ms, maybe the socket is end on the other side. (address: 127.0.0.1:50938)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ServerNoResponseError"
+pid: 9360
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 15:59:08,000 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:18:30,483 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:22:35,065 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:22:41,445 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:22:46,701 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:22:59,844 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:23:17,091 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:23:21,465 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:39:55,943 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:42:17,523 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:42:23,503 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:42:47,433 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:44:03,043 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:44:11,483 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:44:12,164 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:44:17,891 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:44:57,964 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:45:08,429 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:45:11,592 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:45:39,842 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:45:45,416 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:49:50,732 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:50:49,163 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:50:54,531 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:50:58,412 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:51:05,732 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:51:07,532 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:51:08,909 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:51:15,092 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:52:41,205 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:52:48,213 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:52:48,505 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:53:48,764 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 16:53:54,366 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:00:32,892 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:01:05,720 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:01:32,318 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:03:57,119 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:04:02,454 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:04:33,384 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:04:39,385 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:04:54,284 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:05:06,251 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:05:15,286 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:05:15,793 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:05:23,057 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:05:23,776 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:06:01,104 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:06:07,038 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:07:05,969 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:37:58,820 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:39:28,573 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:39:36,439 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:39:36,677 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:39:41,795 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:39:48,601 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:39:54,874 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:40:51,348 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:41:12,928 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:41:37,623 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:41:44,657 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:41:49,974 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:52:30,826 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:52:43,534 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:52:43,771 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:52:56,080 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:52:57,794 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:53:05,712 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:53:06,393 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:53:15,087 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:53:15,283 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:53:22,847 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:54:19,015 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:54:27,415 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:55:10,156 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:55:18,580 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:55:27,833 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:55:29,718 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:55:38,004 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:55:39,798 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:59:06,488 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 17:59:14,281 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:04:38,328 ERROR 12116 nodejs.ServerNoResponseError: server 127.0.0.1:50938 no response in 20001ms, maybe the socket is end on the other side. (address: 127.0.0.1:50938)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ServerNoResponseError"
+pid: 12116
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:06:40,829 ERROR 736 nodejs.ClusterClientNoResponseError: client no response in 162503ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:10:10,939 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:11:33,613 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:11:35,765 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:11:41,970 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:11:44,567 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:12:05,068 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:12:11,938 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:12:44,454 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:12:53,438 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:12:53,827 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:12:58,937 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:13:17,452 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:13:25,506 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:14:02,935 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:16:29,323 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:16:35,136 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:17:08,764 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-10 18:17:25,977 ERROR 736 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 736
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:10:52,715 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:11:00,865 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:11:03,819 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:11:09,025 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:11:09,231 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:32:21,322 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:36:21,027 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:41:15,695 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:41:22,813 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:41:24,375 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:41:29,543 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:41:39,548 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:41:51,487 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:41:59,112 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:41:59,870 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:42:00,671 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:42:36,366 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:42:40,905 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:44:46,105 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:46:11,809 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:46:18,824 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:46:25,627 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:46:26,196 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:48:04,904 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:48:13,336 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:48:15,473 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:51:37,412 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:51:55,626 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:52:03,418 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:53:52,181 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:59:12,695 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:59:19,808 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:59:25,510 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:59:48,446 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 09:59:55,068 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:00:10,407 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:03:36,948 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:05:24,585 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:05:55,547 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:05:58,761 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:06:59,075 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:07:07,316 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:07:07,948 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:08:48,606 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:09:10,217 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:12:02,794 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:12:30,925 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:12:54,130 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:13:00,528 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:13:00,818 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:15:58,775 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:20:18,685 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:20:43,970 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:23:10,253 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:23:35,869 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:23:58,557 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:24:06,652 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:24:15,550 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:24:17,245 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:24:24,772 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:24:28,185 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:24:35,194 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 10:24:36,315 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:06:30,442 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:06:35,975 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:07:55,219 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:09:15,136 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:12:29,980 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:12:36,071 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:12:42,074 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:12:49,441 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:12:55,657 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:13:02,647 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:13:35,992 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:13:41,326 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:13:46,407 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:14:32,249 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:14:36,677 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:14:59,470 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:15:18,498 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:15:33,191 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:15:42,465 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:15:49,320 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:16:18,426 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:16:34,272 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:26:17,577 ERROR 9844 nodejs.TypeError: this.app.mysql.updata is not a function
+    at SchoolService.editorsubject (G:\jingxian\app\service\school.js:168:41)
+    at SchoolController.editorsubject (G:\jingxian\app\controller\school.js:135:37)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 9844
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:27:19,835 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:27:22,964 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:27:25,956 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:29:35,690 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:29:42,213 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:30:23,988 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:31:05,729 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:31:46,243 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:32:12,319 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:32:28,986 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:32:38,121 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:32:39,797 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:33:50,211 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:34:25,987 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:34:32,524 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:34:46,971 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 11:43:01,465 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 12:06:12,865 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 12:26:49,861 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 12:26:58,678 ERROR 13076 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+
+2019-01-11 13:08:36,247 ERROR 13076 nodejs.ClusterClientNoResponseError: client no response in 116952ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (G:\jingxian\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 13076
+hostname: DESKTOP-EIGA65Q
+

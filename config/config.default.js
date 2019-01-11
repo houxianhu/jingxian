@@ -16,9 +16,17 @@ module.exports = appInfo => {
     app: true,
     agent: false,
   };
+  config.sequelize = {
+    dialect: 'mysql', // support: mysql, mariadb, postgres, mssql
+    database: 'jingxian',
+    host: 'localhost',
+    port: 3306,
+    username: 'root',
+    password: '123456',
+  };
   config.security = {
     csrf: {
-      enable: true,
+      enable: false,
       ignoreJSON: true, // 默认为 false，当设置为 true 时，将会放过所有 content-type 为 `application/json` 的请求
     },
     domainWhiteList: [ '*' ],
@@ -27,14 +35,14 @@ module.exports = appInfo => {
     origin: '*',
     allowMethods: 'GET,HEAD,PUT,POST,DELETE,PATCH',
   };
-  exports.validate = {
+  config.validate = {
     // convert: false,
     // validateRoot: false,
   };
   config.redis = {
     // your redis configurations
   };
-  exports.jwt = {
+  config.jwt = {
     secret: 'houxianhu0416',
   };
   // add your config here

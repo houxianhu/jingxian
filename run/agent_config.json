@@ -13,7 +13,7 @@
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
       "csrf": {
-        "enable": true,
+        "enable": false,
         "useSession": false,
         "ignoreJSON": true,
         "cookieName": "csrfToken",
@@ -177,6 +177,14 @@
       "secret": "<String len: 13>",
       "enable": false
     },
+    "sequelize": {
+      "dialect": "mysql",
+      "database": "jingxian",
+      "host": "localhost",
+      "port": 3306,
+      "username": "root",
+      "password": "<String len: 6>"
+    },
     "env": "local",
     "name": "jingxian",
     "keys": "<String len: 27>",
@@ -197,8 +205,10 @@
         "egg-onerror": "^2.1.0",
         "egg-redis": "^2.3.0",
         "egg-scripts": "^2.5.0",
+        "egg-sequelize": "^4.2.0",
         "egg-session": "^3.1.0",
-        "egg-validate": "^2.0.2"
+        "egg-validate": "^2.0.2",
+        "mysql2": "^1.6.4"
       },
       "devDependencies": {
         "autod": "^3.0.1",
@@ -208,6 +218,7 @@
         "egg-mock": "^3.14.0",
         "eslint": "^4.11.0",
         "eslint-config-egg": "^6.0.0",
+        "sequelize-cli": "^5.4.0",
         "webstorm-disable-index": "^1.2.0"
       },
       "engines": {
@@ -538,6 +549,17 @@
       "from": "G:\\jingxian\\config\\plugin.js",
       "path": "G:\\jingxian\\node_modules\\egg-jwt",
       "version": "3.1.4"
+    },
+    "sequelize": {
+      "enable": true,
+      "package": "egg-sequelize",
+      "name": "sequelize",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "G:\\jingxian\\config\\plugin.js",
+      "path": "G:\\jingxian\\node_modules\\egg-sequelize",
+      "version": "4.2.0"
     }
   }
 }
