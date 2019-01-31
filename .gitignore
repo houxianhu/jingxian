@@ -1,6 +1,8 @@
 node_modules/
 yarn.lock
 coverage/
+logs/
+run/
 .idea/
 .DS_Store
 *.sw*
