@@ -76,6 +76,24 @@ class SchoolService extends Service {
   }
 
   /**
+   * 删除该分校
+   * @param {id} id
+   */
+
+  async deleteBranchSchool(branch_id) {
+    const res = {};
+    const result = await this.app.mysql.delete('branch_school', {
+      where: { id: branch_id },
+    });
+    if (result.affectedRows === 1) {
+      res.code = 1;
+      res.message = '删除成功';
+    }
+    return res;
+  }
+
+
+  /**
    * 获取分校列表
    */
 
@@ -159,6 +177,20 @@ class SchoolService extends Service {
     return res;
   }
 
+  /**
+   * 删除该课程
+   *
+   */
+
+  async deleteProject(project_id) {
+    const res = {};
+    const result = await this.app.mysql.delete('subject', { id: project_id });
+    if (result.affectedRows === 1) {
+      res.code = 1;
+      res.message = '删除成功';
+    }
+    return res;
+  }
   /**
    * 修改课程信息
    */

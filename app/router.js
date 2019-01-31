@@ -20,6 +20,7 @@ module.exports = app => {
   router.post('/school/createschool', app.jwt, controller.school.index);
   router.post('/school/createbranch', app.jwt, controller.school.createbranch);
   router.get('/getbranchList/:id', app.jwt, controller.school.getbranchList);
+  router.delete('/deletebranch/:id', app.jwt, controller.school.deleteBranchSchool);
 
   // 创建员工与老师
   router.post('/staff/create', app.jwt, controller.staff.index);
@@ -32,4 +33,5 @@ module.exports = app => {
   router.get('/subject/getsubjectList/:id', app.jwt, controller.school.getsubjectList);
   router.get('/subject/getsubject/:id', app.jwt, controller.school.getsubject);
   router.put('/subject/editorsubject/:id', app.jwt, controller.school.editorsubject);
+  router.delete('/subject/detele/:id', app.jwt, controller.school.deleteProject);
 };

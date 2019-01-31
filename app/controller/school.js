@@ -61,6 +61,14 @@ class SchoolController extends Controller {
   }
 
   /**
+   * 删除该分校
+   */
+  async deleteBranchSchool() {
+    const { ctx } = this;
+    ctx.body = await ctx.service.school.deleteBranchSchool(parseInt(ctx.params.id));
+  }
+
+  /**
    * 创建课程
    */
   async createproject() {
@@ -110,6 +118,19 @@ class SchoolController extends Controller {
     }
   }
 
+
+  /**
+   * 删除该课程
+   */
+
+  async deleteProject() {
+    const { ctx } = this;
+    try {
+      ctx.body = await ctx.service.school.deleteProject(parseInt(ctx.params.id));
+    } catch (error) {
+      ctx.body = error;
+    }
+  }
 
   /**
    * 修改课程
